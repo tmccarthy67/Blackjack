@@ -1,0 +1,65 @@
+{
+    "deck": [
+        "cards\/2_of_spades.png",
+        "cards\/king_of_hearts2.png",
+        "cards\/7_of_spades.png",
+        "cards\/king_of_diamonds2.png",
+        "cards\/3_of_clubs.png",
+        "cards\/king_of_spades2.png",
+        "cards\/2_of_diamonds.png",
+        "cards\/10_of_diamonds.png",
+        "cards\/jack_of_clubs.png",
+        "cards\/7_of_clubs.png",
+        "cards\/queen_of_diamonds2.png",
+        "cards\/7_of_diamonds.png",
+        "cards\/4_of_clubs.png",
+        "cards\/queen_of_spades2.png",
+        "cards\/jack_of_hearts.png",
+        "cards\/4_of_spades.png",
+        "cards\/6_of_spades.png",
+        "cards\/6_of_clubs.png",
+        "cards\/9_of_diamonds.png",
+        "cards\/3_of_hearts.png",
+        "cards\/3_of_diamonds.png"
+    ],
+    "hands": [
+        {
+            "0": "cards\/4_of_diamonds.png",
+            "1": "cards\/ace_of_spades.png",
+            "4": "cards\/9_of_spades.png",
+            "10": "cards\/ace_of_clubs.png",
+            "11": "cards\/ace_of_diamonds.png",
+            "14": "cards\/king_of_clubs2.png"
+        },
+        [
+            "cards\/10_of_clubs.png",
+            "cards\/9_of_hearts.png",
+            "cards\/6_of_diamonds.png",
+            "cards\/10_of_hearts.png",
+            "cards\/10_of_spades.png",
+            "cards\/9_of_clubs.png"
+        ],
+        [
+            "cards\/queen_of_hearts2.png",
+            "cards\/2_of_hearts.png",
+            "cards\/2_of_clubs.png",
+            "cards\/jack_of_diamonds.png"
+        ],
+        [
+            "cards\/queen_of_clubs2.png",
+            "cards\/6_of_hearts.png",
+            "cards\/ace_of_hearts.png",
+            "cards\/3_of_spades.png",
+            "cards\/7_of_hearts.png",
+            "cards\/jack_of_spades.png",
+            "cards\/4_of_hearts.png"
+        ]
+    ],
+    "current_player": 3,
+    "score": [
+        0,
+        0,
+        2,
+        0
+    ]
+}
